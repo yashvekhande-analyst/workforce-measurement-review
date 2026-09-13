@@ -1,0 +1,19 @@
+# Local research and document-production intermediates
+work/
+tmp/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local settings and credentials
+.env
+.env.*
+.codex/
+.idea/
+.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
